@@ -5,7 +5,7 @@
 namespace BTTuan3.Migrations
 {
     /// <inheritdoc />
-    public partial class Khoitaodulieu : Migration
+    public partial class Add_First : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

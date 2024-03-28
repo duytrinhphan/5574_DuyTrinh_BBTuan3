@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BTTuan3.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240322072157_Khoitaodulieu")]
-    partial class Khoitaodulieu
+    [Migration("20240328063847_Add_First")]
+    partial class Add_First
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
